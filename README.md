@@ -11,7 +11,7 @@ Links to slides will also be posted here within 48 hours of the actual session a
 ## Links
 * **Web Design Track Part 1**
 	* [Getting Started with Git: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.1.md)
-	* [Web Design Basics: Part 1]()
+	* [Web Design Basics: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.2.md)
 	* [Getting Started with Git: Part 2]()
 	*
 
