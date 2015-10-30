@@ -1,0 +1,50 @@
+.photo {
+	background-color: lightblue;
+	overflow: hidden;
+	height: 50%;
+}
+
+.photo img {
+	height: 90%;
+}
+
+.photo img:hover {
+	-webkit-transition: all 0.1s;
+	-moz-transition: all 0.1s;
+	-ms-transition: all 0.1s;
+	-o-transition: all 0.1s;
+	transition: all 0.1s;
+	-webkit-transform: rotateZ(180000deg);
+	-moz-transform: rotateZ(180000deg);
+	-ms-transform: rotateZ(180000deg);
+	-o-transform: rotateZ(180000deg);
+	transform: rotateZ(180000deg);
+}
+
+.info {
+	background-color: lightgreen;
+}
+
+body {
+	-webkit-animation: example 5s infinite;
+	-moz-animation: example 5s infinite;
+	-ms-animation: example 5s infinite;
+	-o-animation: example 5s infinite;
+	animation: example 5s infinite;
+}
+
+@keyframes example {
+    0%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: yellow; left:200px; top:0px;}
+    50%  {background-color: blue; left:200px; top:200px;}
+    75%  {background-color: green; left:0px; top:200px;}
+    100% {background-color: red; left:0px; top:0px;}
+}
+
+@-webkit-keyframes example {
+    0%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: yellow; left:200px; top:0px;}
+    50%  {background-color: blue; left:200px; top:200px;}
+    75%  {background-color: green; left:0px; top:200px;}
+    100% {background-color: red; left:0px; top:0px;}
+}
