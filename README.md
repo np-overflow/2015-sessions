@@ -16,6 +16,7 @@ Links to slides will also be posted here within 48 hours of the actual session a
 	* [Web Design Basics: Part 3](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.4.md)
 * **Android Development Track**
 	* [Java Basics and Getting Started with Android](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Android%20Development%20Track/02.1.md)
+	* [Android Design](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Android%20Development%20Track/02.2.md)
 
 ## Feedback
 If you have any suggestions for tracks, or on how we can improve the program in general, our emails are always open at [ict.overflow@gmail.com](mailto://ict.overflow@gmail.com).
