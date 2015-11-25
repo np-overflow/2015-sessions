@@ -10,14 +10,14 @@ Links to slides will also be posted here within 48 hours of the actual session a
 
 ## Links
 * **Basic Web Design**
-	* [Getting Started with Git: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.1.md)
-	* [Web Design Basics: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.2.md)
-	* [Web Design Basics: Part 2](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.3.md)
-	* [Web Design Basics: Part 3](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Web%20Design%20Track%20Pt%201/01.4.md)
+	* [Getting Started with Git: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Basic%20Web%20Design/01.1.md)
+	* [Web Design Basics: Part 1](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Basic%20Web%20Design/01.2.md)
+	* [Web Design Basics: Part 2](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Basic%20Web%20Design/01.3.md)
+	* [Web Design Basics: Part 3](https://github.com/np-overflow/2015-sessions/blob/master/01%20--%20Basic%20Web%20Design/01.4.md)
 * **Basic Android Development**
-	* [Java Basics and Getting Started with Android](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Android%20Development%20Track/02.1.md)
-	* [Android Design](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Android%20Development%20Track/02.2.md)
-	* [Android Implementation](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Android%20Development%20Track/02.3.md)
+	* [Java Basics and Getting Started with Android](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Basic%20Android%20Development/02.1.md)
+	* [Android Design](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Basic%20Android%20Development/02.2.md)
+	* [Android Implementation](https://github.com/np-overflow/2015-sessions/blob/master/02%20--%20Basic%20Android%20Development/02.3.md)
 
 ## Feedback
 If you have any suggestions for tracks, or on how we can improve the program in general, our emails are always open at [ict.overflow@gmail.com](mailto://ict.overflow@gmail.com).
