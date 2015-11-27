@@ -1,4 +1,4 @@
-package co.undertide.testapp;
+package sg.edu.np.testapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

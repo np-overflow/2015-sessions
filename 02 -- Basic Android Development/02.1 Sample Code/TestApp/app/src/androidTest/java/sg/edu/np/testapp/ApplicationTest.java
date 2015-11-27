@@ -1,4 +1,4 @@
-package co.undertide.testapp;
+package sg.edu.np.testapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

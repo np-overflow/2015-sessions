@@ -1,4 +1,4 @@
-package co.undertide.testapp;
+package sg.edu.np.testapp;
 
 import org.junit.Test;
 
